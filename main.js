@@ -1,0 +1,3 @@
+var images = 
+["blob:https://web.whatsapp.com/d81ec45c-7a9a-4112-8411-0b83e95abfbe" ,"blob:https://web.whatsapp.com/e0b4a764-c3d5-459f-8674-7da004a67b44" ,"blob:https://web.whatsapp.com/2abcd83a-fd3b-4cea-86b9-4035f7f0b0b2" ,"blob:https://web.whatsapp.com/8c48e4e9-de0c-4ce3-88ef-2110fc408561","blob:https://web.whatsapp.com/0d91f72f-e4ca-496d-81df-1b7c2ce51ba7","blob:https://web.whatsapp.com/be1747d1-f1ec-4568-ba16-648a3e9ffd50"]
+var names = ["Family Book","Chandrasheker Singh(Grandpa)","Viplow Singh(Father)","Kavish Singh(Brother)","Mishka Singh(Me)","Kamini Singh(Mother)" ]
